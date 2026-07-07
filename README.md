@@ -49,6 +49,8 @@ These are **case-study repositories**. The source code is private to protect bus
 - Everything I build is **used in production** by real staff and customers.
 - I know what an automation is worth because I feel the cost of the manual process it replaces.
 
+  ![stats](https://github-readme-stats.vercel.app/api?username=Boogie/AI&count_private=true&show_icons=true)
+
 <!--
   Optional: add a GitHub stats card. Because most repos are private, enable
   "count_private" and add the card only if it reflects well:
