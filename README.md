@@ -1,3 +1,5 @@
+
+
 # Hi, I'm Bounas Kanaris 👋
 
 **No-Code / AI Automation Specialist · Full-Stack Builder · Business Operator**
@@ -36,7 +38,7 @@ These are **case-study repositories**. The source code is private to protect bus
 |---|---|---|
 | 🏆 **[WNTG](../../../WNTG)** | Real-time, multi-tenant tournament & venue-management platform | Supabase · React · Tauri |
 | 💬 **[INSPOT HUB](../../../inspot-hub)** | Internal team platform (~30 users) with live chat + AI agent | Supabase · React · Vercel |
-| 🎟️ **[Stamps](../../../stamps)** | Loyalty app reading live point-of-sale data | Supabase Edge Functions · React |
+| 🧾 **[INSPOT POS](../../../inspot-pos)** | In-house POS: 4 order channels → one DB, kitchen & printer | Supabase · React · Electron |
 | 📈 **[Trading Bot](../../../trading-bot)** | Automated rules-based trading bot, fully tested | Python · ib_insync |
 
 > 💡 Update the links above to your actual repo names once you create them.
@@ -48,7 +50,6 @@ These are **case-study repositories**. The source code is private to protect bus
 - I don't wait on a dev team — I design the database, build the backend and the interface, wire up the integrations, and ship it to the people who use it.
 - Everything I build is **used in production** by real staff and customers.
 - I know what an automation is worth because I feel the cost of the manual process it replaces.
-
 
 <!--
   Optional: add a GitHub stats card. Because most repos are private, enable
