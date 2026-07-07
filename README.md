@@ -7,7 +7,7 @@
 I build the software that runs a real business. I own and operate a multi-venue company, and I personally ship the entire internal tech stack it runs on — Supabase backends, React & Tauri apps, Python automations, and AI-agent integrations. I start from a real operational problem and deliver the working system that solves it, end to end.
 
 🌍 Based in Greece · Open to fully remote roles
-🔗 Portfolio: **[TBA]** · LinkedIn: **https://www.linkedin.com/in/kanarisb/**
+🔗 Portfolio: **https://portfolio-phi-liart-daqdancpjf.vercel.app/** · LinkedIn: **https://www.linkedin.com/in/kanarisb/**
 
 ---
 
