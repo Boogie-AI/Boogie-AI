@@ -37,8 +37,9 @@ These are **case-study repositories**. The source code is private to protect bus
 | Project | What it is | Stack |
 |---|---|---|
 | 🏆 **[WNTG](https://github.com/Boogie-AI/WNTG/blob/main/README.md)** | Real-time, multi-tenant tournament & venue-management platform | Supabase · React · Tauri |
-| 💬 **[INSPOT HUB](../../../inspot-hub)** | Internal team platform (~30 users) with live chat + AI agent | Supabase · React · Vercel |
 | 🧾 **[INSPOT POS](../../../inspot-pos-public-)** | In-house POS: 4 order channels → one DB, kitchen & printer | Supabase · React · Electron |
+| 🎁 **[NetOps Loyalty](../../../netops-loyalty)** | Loyalty platform for 73k+ members, POS-connected, local-first | Supabase · React Native · Vercel |
+| 💬 **[INSPOT HUB](../../../inspot-hub)** | Internal team platform (~30 users) with live chat + AI agent | Supabase · React · Vercel |
 | 📈 **[Trading Bot](../../../trading-bot)** | Automated rules-based trading bot, fully tested | Python · ib_insync |
 
 > 💡 Update the links above to your actual repo names once you create them.
